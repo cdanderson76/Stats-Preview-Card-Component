@@ -54,8 +54,6 @@
   margin-top: 40px;
 }
 
-/* Had to figure out how to get one word with a different color in a paragraph by using the span element.  Only thing is that this element is an 'inline' element, and it through the rest of my paragraph off.  I had to make sure that I used  */
-
 span {
   margin: 0 3px 0 3px;
   color: #AB5CDB;
